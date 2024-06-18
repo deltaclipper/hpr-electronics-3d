@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "easymini-3d.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
