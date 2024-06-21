@@ -7,7 +7,7 @@ Altus Metrum
 - EasyMini
 
 Missileworks
--PET2
+- PET2
 
 **Work In Progress:**
 Altus Metrum
